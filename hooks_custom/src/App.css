@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.ProductList{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.ProductCard{
+  max-width: 250px;
+}
+.ProductCard img{
+width: 100%;
+}
